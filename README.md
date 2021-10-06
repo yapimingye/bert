@@ -3,7 +3,7 @@
 - LSTM-CNNs-CRF impolment in pytorch, and test in conll2003 dataset, reference [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](http://www.aclweb.org/anthology/P/P16/P16-1101.pdf).
 
 - PyTorch0.3.1 Code release on here. [[PyTorch0.3.1](https://github.com/bamtercelboo/pytorch_NER_BiLSTM_CNN_CRF/releases/tag/PyTorch0.3.1)]  
-修改bh
+修改bh,规避广告法的最好办法
 ## Requirement ##
 
 	PyTorch: 1.0.1
